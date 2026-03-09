@@ -1,0 +1,10 @@
+/* Tailwind handles most styling. Add overrides here if needed */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+button {
+  min-height: 44px; /* tap-friendly for Android */
+}
+input, select {
+  min-height: 44px;
+}
